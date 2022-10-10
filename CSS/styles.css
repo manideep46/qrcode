@@ -1,0 +1,40 @@
+body
+{
+  background-color: hsl(212, 45%, 89%);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.top-container
+{
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  width: 18%;
+  padding-bottom: 40px;
+  border-radius: 10px;
+  margin: 140px auto;
+}
+.img
+{
+  width: 90%;
+  margin-top: 15px;
+  border-radius: 10px;
+
+}
+.improve
+{
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 1.1rem;
+  font-family: 'Outfit', sans-serif;
+  width: 82%;
+  margin: 15px auto;
+}
+.scan
+{
+  font-size: 0.8rem;
+  font-family: 'Outfit', sans-serif;
+  color: hsl(220, 15%, 55%);
+  width: 82%;
+  margin: 10px auto 0;
+}
